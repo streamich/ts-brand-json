@@ -1,0 +1,7 @@
+{
+    "name": "ts-brand-json",
+    "version": "0.1.0",
+    "dependencies": {
+        "ts-brand": "^0.0.2"
+    }
+}
