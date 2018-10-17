@@ -1,6 +1,8 @@
 {
     "name": "ts-brand-json",
     "version": "0.1.0",
+    "typing": "index.d.ts",
+    "typings": "index.d.ts",
     "dependencies": {
         "ts-brand": "^0.0.2"
     }
